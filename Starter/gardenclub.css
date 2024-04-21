@@ -2,14 +2,24 @@ body {
   background-color: antiquewhite;
   color: navy;
 }
+h1 {
+  font-size: 55px;
+  color: rgb(163, 82, 109);
+  font-family: "Parisienne", cursive;
+}
+h2 {
+  color: palevioletred;
+  font-family: Georgia, serif;
+}
+h3 {
+  font-family: Arial, sans-serif;
+}
 p {
-  
+  font-family: Roboto, serif;
 }
-
 a {
-
+  font-weight: bold;
 }
-
 img {
 
 }
